@@ -1,12 +1,9 @@
-## Hi there 👋
+# About Connect+
 
-<!--
+## Stronger together. 
+Self-employed people are passionate about their profession. 
+They go to extremes for their customers. 
+We offer our network of entrepreneurs the tools to combine the service of the self-employed professional with the power of digital. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Connect+ Group has grown out of an intense collaboration between more than 300 brands and more than 1,500 independents. 
+The Connect+ platform represents a retail turnover of 850 mio and serves more than 1 million customers per year.
